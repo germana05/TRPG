@@ -1,0 +1,7 @@
+C:\Users\marshall\source\repos\TRPG\TRPG\bin\Debug\TRPG.exe.config
+C:\Users\marshall\source\repos\TRPG\TRPG\bin\Debug\TRPG.exe
+C:\Users\marshall\source\repos\TRPG\TRPG\bin\Debug\TRPG.pdb
+C:\Users\marshall\source\repos\TRPG\TRPG\obj\Debug\TRPG.csproj.AssemblyReference.cache
+C:\Users\marshall\source\repos\TRPG\TRPG\obj\Debug\TRPG.csproj.CoreCompileInputs.cache
+C:\Users\marshall\source\repos\TRPG\TRPG\obj\Debug\TRPG.exe
+C:\Users\marshall\source\repos\TRPG\TRPG\obj\Debug\TRPG.pdb
